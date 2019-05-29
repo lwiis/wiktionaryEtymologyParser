@@ -1,0 +1,329 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://w
+ww.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/
+xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wiktionary</sitename>
+    <dbname>enwiktionary</dbname>
+    <base>https://en.wiktionary.org/wiki/Wiktionary:Main_Page</base>
+    <generator>MediaWiki 1.34.0-wmf.3</generator>
+    <case>case-sensitive</case>
+    <namespaces>
+      <namespace key="-2" case="case-sensitive">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="case-sensitive" />
+      <namespace key="1" case="case-sensitive">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="case-sensitive">Wiktionary</namespace>
+      <namespace key="5" case="case-sensitive">Wiktionary talk</namespace>
+      <namespace key="6" case="case-sensitive">File</namespace>
+      <namespace key="7" case="case-sensitive">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="case-sensitive">Template</namespace>
+      <namespace key="11" case="case-sensitive">Template talk</namespace>
+      <namespace key="12" case="case-sensitive">Help</namespace>
+      <namespace key="13" case="case-sensitive">Help talk</namespace>
+      <namespace key="14" case="case-sensitive">Category</namespace>
+      <namespace key="15" case="case-sensitive">Category talk</namespace>
+      <namespace key="90" case="case-sensitive">Thread</namespace>
+      <namespace key="91" case="case-sensitive">Thread talk</namespace>
+      <namespace key="92" case="case-sensitive">Summary</namespace>
+      <namespace key="93" case="case-sensitive">Summary talk</namespace>
+      <namespace key="100" case="case-sensitive">Appendix</namespace>
+      <namespace key="101" case="case-sensitive">Appendix talk</namespace>
+      <namespace key="102" case="case-sensitive">Concordance</namespace>
+      <namespace key="103" case="case-sensitive">Concordance talk</namespace>
+      <namespace key="104" case="case-sensitive">Index</namespace>
+      <namespace key="105" case="case-sensitive">Index talk</namespace>
+      <namespace key="106" case="case-sensitive">Rhymes</namespace>
+      <namespace key="107" case="case-sensitive">Rhymes talk</namespace>
+      <namespace key="108" case="case-sensitive">Transwiki</namespace>
+      <namespace key="109" case="case-sensitive">Transwiki talk</namespace>
+      <namespace key="110" case="case-sensitive">Thesaurus</namespace>
+      <namespace key="111" case="case-sensitive">Thesaurus talk</namespace>
+      <namespace key="114" case="case-sensitive">Citations</namespace>
+      <namespace key="115" case="case-sensitive">Citations talk</namespace>
+      <namespace key="116" case="case-sensitive">Sign gloss</namespace>
+      <namespace key="117" case="case-sensitive">Sign gloss talk</namespace>
+      <namespace key="118" case="case-sensitive">Reconstruction</namespace>
+      <namespace key="119" case="case-sensitive">Reconstruction talk</namespace>
+      <namespace key="828" case="case-sensitive">Module</namespace>
+      <namespace key="829" case="case-sensitive">Module talk</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>amigo</title>
+    <ns>0</ns>
+    <id>2844</id>
+    <revision>
+      <id>52281080</id>
+      <parentid>52007779</parentid>
+      <timestamp>2019-04-07T04:15:52Z</timestamp>
+      <contributor>
+        <username>WingerBot</username>
+        <id>2024159</id>
+      </contributor>
+      <minor />
+      <comment>move lang= to 1= in {{der3}}; move lang= to 1= in {{rel3}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{also|amigó}}
+==English==
+
+===Etymology===
+Borrowed from {{bor|en|es|amigo||friend}}, from {{der|en|la|amīcus||friend}}, derived from {{m|la|amo|amāre|to love}}. Compare French {{m|fr|ami}}, Italian {{m|it|amico}}, Portuguese {{m|pt|amigo}} and Romanian {{m|ro|amic}}.
+
+===Pronunciation===
+* {{a|UK}} {{IPA|/əˈmiː.ɡəʊ/|lang=en}}
+* {{a|US}} {{IPA|/əˈmiɡoʊ/|lang=en}}
+
+===Noun===
+{{head|en|noun|plural|amigos|feminine|amiga}}
+
+# {{lb|en|informal}} [[friend]]
+# {{lb|en|informal|mainly|California}} [[Mexican]]
+# {{lb|en|historical}} A [[native]] of the [[Philippines]] who was friendly toward the [[Spanish]].
+
+====Synonyms====
+* See also [[Thesaurus:friend]]
+
+====Translations====
+{{trans-see|friend}}
+
+{{trans-top|informal: Mexican}}
+{{trans-mid}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=agimo|imago}}
+
+----
+
+==Cebuano==
+
+===Etymology===
+Borrowed from {{bor|ceb|es|amigo||male friend}}, from {{der|ceb|osp|[[amigo]], [[amygo]]}}, from {{der|ceb|la|amīcus}}.
+
+===Noun===
+{{head|ceb|noun}}
+
+# a male [[friend]]
+# {{lb|ceb|obsolete}} an address to a male friend
+
+{{topics|ceb|Male|People}}
+
+[[Category:Cebuano terms of address]]
+
+----
+
+==Eastern Huasteca Nahuatl==
+
+===Etymology===
+Borrowed from {{bor|nhe|es|amigo}}
+
+===Noun===
+{{head|nhe|noun|possessive|iamigo}}
+
+# [[friend]]
+
+----
+
+==Galician==
+
+===Etymology===
+From {{inh|gl|roa-opt|amigo}}, from {{inh|gl|la|amīcus}}.
+
+===Noun===
+{{gl-noun|m|f=amiga}}
+
+# [[friend]] (male)
+
+====Antonyms====
+* {{sense|friend}} {{l|gl|inimigo}}
+
+====Related terms====
+* {{l|gl|amiga}}
+
+===Adjective===
+{{gl-adj|f=amiga}}
+
+# [[friendly]]
+#: {{ux|gl|países '''amigos'''|inline=1|'''friendly''' countries}}
+
+====Antonyms====
+* {{sense|friendly}} {{l|gl|inimigo}}
+
+[[Category:gl:People]]
+
+----
+
+==Ladino==
+
+===Etymology===
+From {{der|lad|osp|[[amigo]], [[amygo]]}}, from {{der|lad|la|amīcus}}.
+
+===Noun===
+{{lad-noun|l|heb=אמיגו|g=m}}
+
+# (male) [[friend]]
+
+====Coordinate terms====
+* {{l|lad|amiga}}
+
+----
+
+==Old Portuguese==
+
+===Alternative forms===
+* {{alter|roa-opt|amig'}}
+
+===Etymology===
+From {{inh|roa-opt|la|amīcus||friend; friendly}}, from {{m|la|amō||I love}} + {{m|la|-icus}}.
+
+===Pronunciation===
+* {{IPA|/aˈmiɡo/|lang=roa-opt}}
+
+===Noun===
+{{head|roa-opt|noun|g=m|plural|amigos|feminine|amiga|feminine plural|amigas}}
+
+# {{l|en|friend}}
+#* {{roa-opt-cite-cantigas|E|210|http://www.pbm.com/~lindahl/cantigas/facsimiles/E/383small.gif}}
+#*: Mvito foi noſſ'''amigo''' / gabriel quando diſſe / maria deus e tigo.
+#*:: Gabriel was our true '''friend''' when he said: &quot;Mary, God is with you&quot;.
+# {{l|en|lover}}
+#* '''13th century''', [[w:Pergaminho Vindel|''Vindel manuscript'']], [[w:Martín Codax|Martín Codax]], [http://cantigas.fcsh.unl.pt/cantiga.asp?cdcant=1308&amp;pv=sim ''Ondas do mar de Vigo''] ([https://upload.wikimedia.org/wikipedia/commons/1/11/Martim_Codax_Cantigas_de_Amigo.jpg facsimile])
+#*: Ondas do mar de uigo / ſe uiſtes meu '''amigo'''. / E ay deꝯ ſe uerra cedo.
+#*:: Waves of the sea of Vigo / Have you seen my '''lover'''? / Oh God, will he return soon?
+
+====Antonyms====
+* {{sense|friend}} {{l|roa-opt|ẽemigo}}
+
+====Descendants====
+* {{desc|gl|amigo}}
+* {{desc|pt|amigo}}
+
+----
+
+==Portuguese==
+
+===Etymology===
+From {{inh|pt|roa-opt|amigo}}, from {{inh|pt|la|amīcus||friend; friendly}}, from {{m|la|amō||I love}} + {{m|la|-icus}}. Compare Catalan {{m|ca|amic}}, French {{m|fr|ami}}, Italian {{m|it|amico}}, Romanian {{m|ro|amic}} and Spanish {{m|es|amigo}}.
+
+===Pronunciation===
+* {{a|PT}} {{IPA|/ɐˈmiɣu/|lang=pt}}
+* {{a|BR}} {{IPA|/ɐˈmiɡu/|/aˈmiɡu/|lang=pt}}
+* {{a|South Brazil}} {{IPA|/aˈmiɡo/|lang=pt}}
+
+===Noun===
+{{pt-noun|m|s|f=amiga}}
+
+# {{l|en|friend}} {{gloss|person whose company one enjoys}}
+#: {{ux|pt|João e Maria são meus '''amigos'''.|t=John and Mary are my '''friends'''.}}
+# {{l|en|friend}} {{gloss|an associate or thing which provides assistance}}
+#: {{ux|pt|Sou '''amigo''' da natureza.|t=I’m a '''friend''' of nature.}}
+#: {{ux|pt|Perseverança é a melhor '''amiga''' do conhecimento.|t=Perseverance is knowledge’s best '''friend'''.}}
+# a {{l|en|state}} with good {{l|en|relation|relations}} with another state
+#: {{ux|pt|O Canadá é '''amigo''' dos Estados Unidos.|t=Canada is the United States’ '''friend'''.}}
+# {{lb|pt|Brazil|colloquial|used in the vocative}} {{non-gloss definition|A term of [[address#Noun|address]] for someone}}
+
+====Quotations====
+{{seeCites}}
+
+====Synonyms====
+* {{sense|person whose company one enjoys}} {{l|pt|camarada}}, {{l|pt|companheiro}}
+* {{sense|term of address}} {{l|pt|grande}}, {{l|pt|chefe}}
+
+====Antonyms====
+* {{sense|person whose company one enjoys}} {{l|pt|inimigo}}
+
+====Derived terms====
+* {{l|pt|amigão}}, {{l|pt|amigalhão}}, {{l|pt|amigaço}} {{qualifier|augmentatives}}
+* {{l|pt|amiguinho}} {{qualifier|diminutive}}
+* {{l|pt|amigo da onça}}
+* {{l|pt|amigo do peito}}
+* {{l|pt|amigo oculto}}
+* {{l|pt|amigo secreto}}
+* {{l|pt|falso amigo}}
+
+===Adjective===
+{{pt-adj|amig|o}}
+
+# {{l|en|friendly}} {{gloss|characteristic of friendliness}}
+#: {{ux|pt|Abraço '''amigo'''.|translation='''Friendly''' hug.}}
+# {{lb|pt|military}} {{l|en|friendly}} {{gloss|of or pertaining to friendlies}}
+#: {{ux|pt|Fogo '''amigo'''.|translation='''Friendly''' fire.}}
+# {{l|en|beneficial}} {{gloss|helpful or good to something or someone}}
+#: {{ux|pt|Preço '''amigo'''.|translation='''Cheap''' price.}}
+#: {{ux|pt|Conselho '''amigo'''.|translation='''Helpful''' advice.}}
+
+====Quotations====
+{{seeCites}}
+
+====Synonyms====
+* {{sense|characteristic of friendliness}} {{l|pt|amigável}}
+* {{sense|beneficial}} {{l|pt|benéfico}}, {{l|pt|camarada}}
+
+====Related terms====
+* {{l|pt|amigar}}
+* {{l|pt|amigável}}
+* {{l|pt|amigavelmente}}
+* {{l|pt|amizade}}
+
+----
+
+==Spanish==
+
+===Etymology===
+From {{inh|es|osp|[[amigo]], [[amygo]]}}, from {{inh|es|la|amīcus}} (compare {{cog|ca|amic}}, {{cog|fr|ami}}, {{cog|it|amico}}, {{cog|pt|amigo}}, {{cog|ro|amic}}), from {{m|la|amō||I love}}.
+
+===Pronunciation===
+* {{es-IPA}}
+* {{rhymes|iɣo|lang=es}}
+
+===Noun===
+{{es-noun|m|f=amiga}}
+
+# [[friend]]
+#: {{ant|es|enemigo}}
+
+====Usage notes====
+{{es-note-noun-mf}}
+
+====Derived terms====
+{{der3|es|amigar|amigable|amigote|amigovio|amiguero|amiguete|amiguismo|amiguista|amiguito}}
+
+====Related terms====
+{{rel3|es|amical|amicísimo|amistad|amistoso|enemigo}}
+
+====Descendants====
+* {{desc|ccc|ameko}}
+* {{desc|bor=1|ceb|amigo}}
+* {{desc|bor=1|en|amigo}}
+* {{desc|bor=1|pap|amigu}}
+* {{desc|bor=1|yua|amigoo}}
+
+===Further reading===
+* {{R:DRAE}}
+
+[[Category:Spanish basic words]]
+
+----
+
+==Venetian==
+
+===Etymology===
+From {{inh|vec|la|amīcus}}.
+
+===Noun===
+{{vec-noun|amig|m|o|hi}} (''Alternative plural'': [[amisi]])
+
+# [[friend]]</text>
+      <sha1>8poyihxpee7srewk7628f1gwjc1xajd</sha1>
+    </revision>
+  </page>
+</mediawiki>
